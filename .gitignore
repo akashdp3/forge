@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Rust
+target/
+Cargo.lock
+
+# Build outputs
+dist/
+.turbo/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Logs
+*.log

@@ -1,0 +1,8 @@
+{
+  "name": "forge",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A Vite-powered meta-framework with Rust SSR runtime",
+  "scripts": {},
+  "devDependencies": {}
+}
